@@ -2,7 +2,7 @@ import random, os, discord, json
 from discord.ext import commands, tasks
 from itertools import cycle
 
-token = 'NzYxMTI2MDcyMTM3MDIzNTU4.X3WD5A.4S504IhRsi9lqW2Hr0Srea7wgHE'
+token = 'this is for csesoc'
 client = commands.Bot(command_prefix = 'mmh ', aliases = 'Mmh ')
 
 @client.event
